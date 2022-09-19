@@ -12,11 +12,33 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" width="110px"/>
   </a>
   
+  <!-- Views Counter -->
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEmmanuel-Osabuehien&count_bg=%2308235A&title_bg=%23460C59&icon=ibeacon.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=true" height="30px" width="150px"/>
+  </a>
+</div>
+  
   <br>
 
 ## About Me
 
 - 🎓 I recently finished my BSc in Computing in Software Development at Atlantic Technological University.
+  
+  ## My Statistics
+
+<!-- GitHub Stats -->
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Emmanuel-Osabuehien&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&stroke=DD0000" height="195px" width="500px"/>
+  </a>
+  
+<!-- Top Languages Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Osabuehien&layout=compact&count_private=true&show_icons=true&theme=tokyonight&locale=en&border_color=133d91&icon_color=b34704" height="195px" width="500px"/>
+  </a>
+</div>
+
+<br>
 
 <br>
 
